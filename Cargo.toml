@@ -1,0 +1,14 @@
+[package]
+name = "cargo-lint"
+version = "0.1.0"
+authors = ["baoyachi <liaoymsdl@gmail.com>"]
+edition = "2018"
+description = "A lint check tool use by cargo"
+keywords = ["lint", "cargo-lint","check","swap","cargo-check"]
+readme = "README.md"
+repository = "https://github.com/baoyachi/cargo-lint"
+license = "MIT AND Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
